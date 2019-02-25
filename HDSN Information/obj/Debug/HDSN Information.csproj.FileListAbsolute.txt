@@ -1,0 +1,8 @@
+F:\Data\KaryaVS\HDSN Information\HDSN Information\bin\Debug\HDSN Information.exe.config
+F:\Data\KaryaVS\HDSN Information\HDSN Information\obj\Debug\HDSN_Information.Form1.resources
+F:\Data\KaryaVS\HDSN Information\HDSN Information\obj\Debug\HDSN_Information.Properties.Resources.resources
+F:\Data\KaryaVS\HDSN Information\HDSN Information\obj\Debug\HDSN Information.csproj.GenerateResource.Cache
+F:\Data\KaryaVS\HDSN Information\HDSN Information\bin\Debug\HDSN Information.exe
+F:\Data\KaryaVS\HDSN Information\HDSN Information\bin\Debug\HDSN Information.pdb
+F:\Data\KaryaVS\HDSN Information\HDSN Information\obj\Debug\HDSN Information.exe
+F:\Data\KaryaVS\HDSN Information\HDSN Information\obj\Debug\HDSN Information.pdb
